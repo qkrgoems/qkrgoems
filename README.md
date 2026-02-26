@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Park Hae-den, a developer born in 2006. I'm a website developer of the future!! 👋
 
 <!--
 **qkrgoems/qkrgoems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
